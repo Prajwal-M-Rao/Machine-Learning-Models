@@ -1,4 +1,6 @@
-This repository contains implementations of several machine learning models applied to well-known datasets, including the Iris dataset, Wine dataset, and others. The models include:
+This repository features implementations of various machine learning models applied to popular datasets such as the Iris dataset, Wine dataset, and more. It also includes the corresponding datasets used for training and evaluation.
+
+The models include:
 
 # K-Nearest Neighbors (KNN)
 
